@@ -30,6 +30,6 @@
 
 
 
-![snake gif](https://github.com/Formandodev/xjuliaag/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/xjuliaag/blob/output/github-contribution-grid-snake.svg)
 
 
